@@ -1,3 +1,5 @@
 Cold and Dry
 Mars has two moons.
 There is a lack of humidity.
+Also it is very dry there.
+Redundancy is great.
